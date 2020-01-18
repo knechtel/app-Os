@@ -65,7 +65,7 @@ const styles = StyleSheet.create({
     borderEndWidth:10,
     borderLeftWidth:10,
     borderBottomWidth:10,
-    borderColor: 'gray'
+    borderColor: 'black'
   },
   title: {
     fontSize: 18
