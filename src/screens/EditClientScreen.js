@@ -1,8 +1,8 @@
 import React from 'react';
-import { View, Text, TouchableOpacity, StyleSheet } from 'react-native';
+import { View, Text, StyleSheet } from 'react-native';
 import {CLIENT_FETCH_ALL} from '../api/apiBackend.js';
 
-class EdiitClientScreen extends React.Component {
+class EditClientScreen extends React.Component {
 
   constructor(props) {
     super(props)
