@@ -11,7 +11,7 @@ class ClientScreen extends React.Component {
   }
 
   doEditCliente = () =>{
-   // this.child.navigation.navigate('EditClient')
+    this.props.child.navigation.navigate('EditClient')
   }
 
   async componentDidMount() {
